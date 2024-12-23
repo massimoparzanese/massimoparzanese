@@ -34,6 +34,5 @@ Email: massimoparzanese@gmail.com
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=massimoparzanese&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/massimoparzanese)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=massimoparzanese&theme=material-palenight)](https://github.com/massimoparzanese) <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=massimoparzanese&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Massimo" />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=massimoparzanese&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Massimo" />
 </div>
