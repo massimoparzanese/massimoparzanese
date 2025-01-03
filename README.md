@@ -10,6 +10,9 @@ I'm currently a student of University programmer analyst at UNLP. I'm passionate
 If you have any questions, please feel free to contact me. I’m always open to learning and sharing knowledge!
 
 Email: massimoparzanese@gmail.com
+<a href="https://www.linkedin.com/in/massimo-parzanese" target="_blank" rel="noopener noreferrer">
+  Conecta conmigo en LinkedIn
+</a>
 
 ## My Skills Include
 
