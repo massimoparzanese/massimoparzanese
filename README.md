@@ -12,7 +12,7 @@ If you have any questions, please feel free to contact me. I’m always open to 
 Email: massimoparzanese@gmail.com
 <br>
 <a href="https://www.linkedin.com/in/massimo-parzanese-b05509344/" target="_blank" rel="noopener noreferrer">
-  Conecta conmigo en LinkedIn
+  Connect with me on LinkedIn!
 </a>
 
 ## My Skills Include
