@@ -6,7 +6,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-I'm currently a student of University programmer analyst at UNLP. I'm passionate about learning new technologies and continuously improving my skills in both front-end and back-end development. Right now, I’m focusing on deepening my knowledge of React, Java and Python. I value teamwork and maintaining strong interpersonal relationships.
+I'm currently a student of University programmer analyst at UNLP. I'm passionate about learning new technologies and continuously improving my skills in both front-end and back-end development. Right now, I’m focusing on deepening my knowledge of React, Nodejs and Python. I value teamwork and maintaining strong interpersonal relationships.
 If you have any questions, please feel free to contact me. I’m always open to learning and sharing knowledge!
 
 Email: massimoparzanese@gmail.com
