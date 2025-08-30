@@ -6,7 +6,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-I'm currently in my final year of the Analyst Programmer degree at Universidad Nacional de La Plata, Argentina. I'm passionate about learning new technologies and constantly improving my skills in both front-end and back-end development. At the moment, I'm focusing on expanding my knowledge in React, Node.js, and Python. I enjoy working in teams and building strong interpersonal relationships. If you have any questions or opportunities to connect,  feel free to reach out. I'm always open to learning and sharing knowledge!
+I'm currently in my final year of the Analyst Programmer degree at Universidad Nacional de La Plata, Argentina. I'm passionate about learning new technologies and constantly improving my skills in both front-end and back-end development. At the moment, I'm focusing on expanding my knowledge in Next.js, and Python. I enjoy working in teams and building strong interpersonal relationships. If you have any questions or opportunities to connect,  feel free to reach out. I'm always open to learning and sharing knowledge!
 
 Email: massimoparzanese@gmail.com
 <br>
@@ -25,7 +25,7 @@ Email: massimoparzanese@gmail.com
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 </span>
 
 <h4> Other Tools and Technologies </h4>
@@ -34,8 +34,9 @@ Email: massimoparzanese@gmail.com
   <img src="https://img.shields.io/badge/figma-%231572B6.svg?style=for-the-badge&logo=figma&logoColor=white"> 
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src=https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </span>
 
 <h2>Github stats:</h2> 
