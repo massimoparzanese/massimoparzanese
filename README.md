@@ -48,8 +48,10 @@ Email: massimoparzanese@gmail.com
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </span>
 
-<h2>Github stats:</h2> 
+<h2> Github Stats </h2>  
+<br>
 
-[![](https://github-readme-stats.vercel.app/api?username=massimoparzanese&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/massimoparzanese)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=massimoparzanese&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Massimo" />
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=massimoparzanese&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=massimoparzanese&theme=tokyonight&utcOffset=-3)
+
 </div>
