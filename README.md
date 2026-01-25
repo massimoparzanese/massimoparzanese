@@ -6,7 +6,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-I'm currently in my final year of the Analyst Programmer degree at Universidad Nacional de La Plata, Argentina. I'm passionate about learning new technologies and constantly improving my skills in both front-end and back-end development. At the moment, I'm focusing on expanding my knowledge in Next.js, and Python. I enjoy working in teams and building strong interpersonal relationships. If you have any questions or opportunities to connect,  feel free to reach out. I'm always open to learning and sharing knowledge!
+I'm currently in my final year of the Analyst Programmer degree at Universidad Nacional de La Plata, Argentina. I'm passionate about learning new technologies and constantly improving my skills in both front-end and back-end development. At the moment, I'm focusing on expanding my knowledge in JS and Java. I enjoy working in teams and building strong interpersonal relationships. If you have any questions or opportunities to connect,  feel free to reach out. I'm always open to learning and sharing knowledge!
 
 Email: massimoparzanese@gmail.com
 <br>
@@ -50,8 +50,9 @@ Email: massimoparzanese@gmail.com
 
 <h2> Github Stats </h2>  
 <br>
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=massimoparzanese&theme=tokyonight)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=massimoparzanese&theme=tokyonight&utcOffset=-3)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=massimoparzanese&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=massimoparzanese&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 </div>
