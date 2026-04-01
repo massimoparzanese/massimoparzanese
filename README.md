@@ -6,14 +6,14 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-I'm currently in my final year of the Analyst Programmer degree at Universidad Nacional de La Plata, Argentina. I'm passionate about learning new technologies and constantly improving my skills in both front-end and back-end development. At the moment, I'm focusing on expanding my knowledge in JS and Java. I enjoy working in teams and building strong interpersonal relationships. If you have any questions or opportunities to connect,  feel free to reach out. I'm always open to learning and sharing knowledge!
+Analyst Programmer graduate from UNLP, currently pursuing the 4th year of a Bachelor's Degree in Systems. As a Full Stack Developer, I specialize in building scalable applications using Python, NodeJS and Typescript. I’m passionate about software architecture and continuous learning, currently deepening my expertise in cloud integration and modern frontend frameworks like Next.js. I thrive in collaborative environments and am always looking for new challenges to solve.
 
 Email: massimoparzanese@gmail.com
 <br>
 <a href="https://www.linkedin.com/in/massimo-parzanese-b05509344/" target="_blank" rel="noopener noreferrer">
   Connect with me on LinkedIn!
-</a>
-
+</a><br>
+🔗 **Portfolio:** [massimo-parzanese.dev](https://massimoparzanese.vercel.app/)
 ## My Skills Include
 
 <h4> Languages </h4>
