@@ -6,9 +6,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-Analyst Programmer graduate from UNLP, currently pursuing the 4th year of a Bachelor's Degree in Systems. As a Full Stack Developer, I specialize in building scalable applications using Python, NodeJS and Typescript. I’m passionate about software architecture and continuous learning, currently deepening my expertise in cloud integration and modern frontend frameworks like Next.js. I thrive in collaborative environments and am always looking for new challenges to solve.
-
-Email: massimoparzanese@gmail.com
+Analyst Programmer graduate from UNLP, currently pursuing the 4th year of a Bachelor's Degree in Systems. As a Full Stack Developer, I combine a robust technical stack—currently focused on Python (Django) and React—with a strong passion for software architecture, clean methodologies, and AI integration. I focus on building scalable, maintainable systems and continuously leveraging emerging technologies to solve complex problems. I thrive in collaborative, high-growth engineering teams.
 <br>
 <a href="https://www.linkedin.com/in/massimo-parzanese-b05509344/" target="_blank" rel="noopener noreferrer">
   Connect with me on LinkedIn!
